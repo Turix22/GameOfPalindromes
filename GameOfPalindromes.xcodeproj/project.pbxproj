@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		A844E1182858B74900E49EF0 /* GameOfPalindromes */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GameOfPalindromes; sourceTree = BUILT_PRODUCTS_DIR; };
 		A844E11B2858B74900E49EF0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		A844E1222858B7D900E49EF0 /* StoryIntro.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StoryIntro.h; sourceTree = "<group>"; };
+		A844E1232858B7F800E49EF0 /* PalindromeCheck.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PalindromeCheck.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				A844E11B2858B74900E49EF0 /* main.cpp */,
+				A844E1232858B7F800E49EF0 /* PalindromeCheck.h */,
+				A844E1222858B7D900E49EF0 /* StoryIntro.h */,
 			);
 			path = GameOfPalindromes;
 			sourceTree = "<group>";
